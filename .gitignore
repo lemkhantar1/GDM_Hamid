@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+# SQLite databases — never share a friend your local data
+backend/users.db
+backend/debates.db
+# Zips produced by the sharing workflow
+gdm_hamid_partage.zip
